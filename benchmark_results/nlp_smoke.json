@@ -1,0 +1,545 @@
+{
+  "source": "A public library offers books, newspapers and digital learning\nresources. Visitors can use quiet study rooms during opening hours.\nStaff members help students find reliable sources for their\nassignments.\n\nSmall businesses track sales and inventory every week. Comparing\nactual demand with the forecast helps reduce excess orders.\nManagers should review both forecast errors and customer feedback\nbefore changing the plan.",
+  "ocr": [
+    {
+      "text": "A public library offers books, newspapers and digital learning\nresources. Visitors can use quiet study rooms during opening hours.\nStaff members help students find reliable sources for their\nassignments.",
+      "language": "eng",
+      "seconds": 0.10567529100080719,
+      "word_count": 29,
+      "mean_engine_confidence": 96.43841893103449,
+      "words": [
+        {
+          "text": "A",
+          "confidence": 96.468132,
+          "left": 46,
+          "top": 57,
+          "width": 23,
+          "height": 24
+        },
+        {
+          "text": "public",
+          "confidence": 96.602905,
+          "left": 80,
+          "top": 57,
+          "width": 87,
+          "height": 31
+        },
+        {
+          "text": "library",
+          "confidence": 96.64653,
+          "left": 179,
+          "top": 57,
+          "width": 89,
+          "height": 31
+        },
+        {
+          "text": "offers",
+          "confidence": 96.680962,
+          "left": 280,
+          "top": 56,
+          "width": 81,
+          "height": 25
+        },
+        {
+          "text": "books,",
+          "confidence": 96.144646,
+          "left": 374,
+          "top": 57,
+          "width": 95,
+          "height": 29
+        },
+        {
+          "text": "newspapers",
+          "confidence": 96.027107,
+          "left": 484,
+          "top": 63,
+          "width": 180,
+          "height": 25
+        },
+        {
+          "text": "and",
+          "confidence": 96.027107,
+          "left": 676,
+          "top": 57,
+          "width": 52,
+          "height": 24
+        },
+        {
+          "text": "digital",
+          "confidence": 96.715889,
+          "left": 742,
+          "top": 57,
+          "width": 85,
+          "height": 31
+        },
+        {
+          "text": "learning",
+          "confidence": 96.799591,
+          "left": 841,
+          "top": 57,
+          "width": 116,
+          "height": 31
+        },
+        {
+          "text": "resources.",
+          "confidence": 96.457787,
+          "left": 48,
+          "top": 112,
+          "width": 154,
+          "height": 18
+        },
+        {
+          "text": "Visitors",
+          "confidence": 96.167732,
+          "left": 214,
+          "top": 106,
+          "width": 110,
+          "height": 24
+        },
+        {
+          "text": "can",
+          "confidence": 96.810631,
+          "left": 336,
+          "top": 112,
+          "width": 51,
+          "height": 18
+        },
+        {
+          "text": "use",
+          "confidence": 96.783684,
+          "left": 401,
+          "top": 112,
+          "width": 51,
+          "height": 18
+        },
+        {
+          "text": "quiet",
+          "confidence": 96.332176,
+          "left": 464,
+          "top": 106,
+          "width": 72,
+          "height": 31
+        },
+        {
+          "text": "study",
+          "confidence": 96.738892,
+          "left": 547,
+          "top": 106,
+          "width": 79,
+          "height": 31
+        },
+        {
+          "text": "rooms",
+          "confidence": 96.29818,
+          "left": 639,
+          "top": 112,
+          "width": 91,
+          "height": 18
+        },
+        {
+          "text": "during",
+          "confidence": 96.453712,
+          "left": 742,
+          "top": 106,
+          "width": 91,
+          "height": 31
+        },
+        {
+          "text": "opening",
+          "confidence": 96.229881,
+          "left": 846,
+          "top": 106,
+          "width": 117,
+          "height": 31
+        },
+        {
+          "text": "hours.",
+          "confidence": 96.075912,
+          "left": 977,
+          "top": 106,
+          "width": 89,
+          "height": 24
+        },
+        {
+          "text": "Staff",
+          "confidence": 96.301544,
+          "left": 48,
+          "top": 154,
+          "width": 69,
+          "height": 25
+        },
+        {
+          "text": "members",
+          "confidence": 96.046768,
+          "left": 127,
+          "top": 155,
+          "width": 138,
+          "height": 24
+        },
+        {
+          "text": "help",
+          "confidence": 96.046768,
+          "left": 278,
+          "top": 155,
+          "width": 61,
+          "height": 31
+        },
+        {
+          "text": "students",
+          "confidence": 96.37394,
+          "left": 351,
+          "top": 155,
+          "width": 126,
+          "height": 24
+        },
+        {
+          "text": "find",
+          "confidence": 96.714523,
+          "left": 488,
+          "top": 154,
+          "width": 51,
+          "height": 25
+        },
+        {
+          "text": "reliable",
+          "confidence": 96.238503,
+          "left": 554,
+          "top": 155,
+          "width": 106,
+          "height": 24
+        },
+        {
+          "text": "sources",
+          "confidence": 96.729202,
+          "left": 672,
+          "top": 161,
+          "width": 116,
+          "height": 18
+        },
+        {
+          "text": "for",
+          "confidence": 96.965408,
+          "left": 799,
+          "top": 154,
+          "width": 40,
+          "height": 25
+        },
+        {
+          "text": "their",
+          "confidence": 96.581894,
+          "left": 849,
+          "top": 155,
+          "width": 65,
+          "height": 24
+        },
+        {
+          "text": "assignments.",
+          "confidence": 96.254143,
+          "left": 47,
+          "top": 205,
+          "width": 197,
+          "height": 31
+        }
+      ],
+      "config": {
+        "name": "raw_psm6",
+        "preprocessing": "raw",
+        "psm": 6
+      },
+      "preprocessing": {
+        "deskew_degrees": 0.0,
+        "scale": 1.0
+      },
+      "note": "Engine confidence is not measured recognition accuracy."
+    },
+    {
+      "text": "Small businesses track sales and inventory every week. Comparing\nactual demand with the forecast helps reduce excess orders.\nManagers should review both forecast errors and customer feedback\nbefore changing the plan.",
+      "language": "eng",
+      "seconds": 0.10830579200046486,
+      "word_count": 31,
+      "mean_engine_confidence": 96.42967816129033,
+      "words": [
+        {
+          "text": "Small",
+          "confidence": 96.556122,
+          "left": 48,
+          "top": 56,
+          "width": 81,
+          "height": 25
+        },
+        {
+          "text": "businesses",
+          "confidence": 96.504753,
+          "left": 143,
+          "top": 57,
+          "width": 166,
+          "height": 24
+        },
+        {
+          "text": "track",
+          "confidence": 96.696609,
+          "left": 321,
+          "top": 57,
+          "width": 72,
+          "height": 24
+        },
+        {
+          "text": "sales",
+          "confidence": 96.047485,
+          "left": 404,
+          "top": 57,
+          "width": 77,
+          "height": 24
+        },
+        {
+          "text": "and",
+          "confidence": 95.982315,
+          "left": 493,
+          "top": 57,
+          "width": 53,
+          "height": 24
+        },
+        {
+          "text": "inventory",
+          "confidence": 96.447472,
+          "left": 560,
+          "top": 57,
+          "width": 135,
+          "height": 31
+        },
+        {
+          "text": "every",
+          "confidence": 96.650612,
+          "left": 706,
+          "top": 63,
+          "width": 82,
+          "height": 25
+        },
+        {
+          "text": "week.",
+          "confidence": 96.996895,
+          "left": 798,
+          "top": 57,
+          "width": 86,
+          "height": 24
+        },
+        {
+          "text": "Comparing",
+          "confidence": 96.703995,
+          "left": 898,
+          "top": 56,
+          "width": 162,
+          "height": 32
+        },
+        {
+          "text": "actual",
+          "confidence": 96.411293,
+          "left": 47,
+          "top": 106,
+          "width": 87,
+          "height": 24
+        },
+        {
+          "text": "demand",
+          "confidence": 96.351532,
+          "left": 147,
+          "top": 106,
+          "width": 120,
+          "height": 24
+        },
+        {
+          "text": "with",
+          "confidence": 96.688026,
+          "left": 279,
+          "top": 106,
+          "width": 58,
+          "height": 24
+        },
+        {
+          "text": "the",
+          "confidence": 96.589272,
+          "left": 349,
+          "top": 106,
+          "width": 45,
+          "height": 24
+        },
+        {
+          "text": "forecast",
+          "confidence": 96.530777,
+          "left": 405,
+          "top": 105,
+          "width": 121,
+          "height": 25
+        },
+        {
+          "text": "helps",
+          "confidence": 96.293388,
+          "left": 537,
+          "top": 106,
+          "width": 78,
+          "height": 31
+        },
+        {
+          "text": "reduce",
+          "confidence": 96.803154,
+          "left": 628,
+          "top": 106,
+          "width": 101,
+          "height": 24
+        },
+        {
+          "text": "excess",
+          "confidence": 96.812241,
+          "left": 740,
+          "top": 112,
+          "width": 104,
+          "height": 18
+        },
+        {
+          "text": "orders.",
+          "confidence": 96.682716,
+          "left": 856,
+          "top": 106,
+          "width": 101,
+          "height": 24
+        },
+        {
+          "text": "Managers",
+          "confidence": 96.169075,
+          "left": 48,
+          "top": 155,
+          "width": 148,
+          "height": 31
+        },
+        {
+          "text": "should",
+          "confidence": 95.972023,
+          "left": 208,
+          "top": 155,
+          "width": 97,
+          "height": 24
+        },
+        {
+          "text": "review",
+          "confidence": 96.396706,
+          "left": 318,
+          "top": 155,
+          "width": 96,
+          "height": 24
+        },
+        {
+          "text": "both",
+          "confidence": 96.72065,
+          "left": 426,
+          "top": 155,
+          "width": 62,
+          "height": 24
+        },
+        {
+          "text": "forecast",
+          "confidence": 95.61911,
+          "left": 500,
+          "top": 154,
+          "width": 120,
+          "height": 25
+        },
+        {
+          "text": "errors",
+          "confidence": 96.149979,
+          "left": 631,
+          "top": 161,
+          "width": 86,
+          "height": 18
+        },
+        {
+          "text": "and",
+          "confidence": 96.246048,
+          "left": 729,
+          "top": 155,
+          "width": 53,
+          "height": 24
+        },
+        {
+          "text": "customer",
+          "confidence": 96.309204,
+          "left": 795,
+          "top": 156,
+          "width": 139,
+          "height": 23
+        },
+        {
+          "text": "feedback",
+          "confidence": 96.043312,
+          "left": 943,
+          "top": 154,
+          "width": 138,
+          "height": 25
+        },
+        {
+          "text": "before",
+          "confidence": 96.525772,
+          "left": 48,
+          "top": 204,
+          "width": 93,
+          "height": 25
+        },
+        {
+          "text": "changing",
+          "confidence": 96.423462,
+          "left": 153,
+          "top": 205,
+          "width": 135,
+          "height": 31
+        },
+        {
+          "text": "the",
+          "confidence": 96.410881,
+          "left": 300,
+          "top": 205,
+          "width": 45,
+          "height": 24
+        },
+        {
+          "text": "plan.",
+          "confidence": 96.585144,
+          "left": 358,
+          "top": 205,
+          "width": 69,
+          "height": 31
+        }
+      ],
+      "config": {
+        "name": "raw_psm6",
+        "preprocessing": "raw",
+        "psm": 6
+      },
+      "preprocessing": {
+        "deskew_degrees": 0.0,
+        "scale": 1.0
+      },
+      "note": "Engine confidence is not measured recognition accuracy."
+    }
+  ],
+  "english_to_hindi": {
+    "text": "सार्वजनिक लाइब्रेरी में किताबें, अखबारों और डिजिटल सीखने के साधन होते हैं. यात्री शुरू के घंटों के दौरान चुप अध्ययन कक्ष का उपयोग कर सकते हैं. स्टेफ के सदस्य अपने नियत कार्य के लिए भरोसेमंद स्रोत खोज सकते हैं. छोटे व्यवसाय ट्रैक और आविष्कार के साथ की तुलना करने के लिए महत्वपूर्ण आदेशों को कम करने में मदद करते हैं. प्रबंधक दोनों ग़लतियों और ग्राहक प्रौद्योगिकियों को योजना बदलने से पहले समीक्षा करना चाहिए.",
+    "model": "Helsinki-NLP/opus-mt-en-hi",
+    "seconds": 1.703140749999875,
+    "chunks": 1,
+    "note": "Local pretrained inference. Translation quality is not covered by OCR accuracy metrics."
+  },
+  "hindi_to_english": {
+    "text": "In the public library there are books, newspapers, and digital studies. The passengers can use the silent study rooms during the initial hours. Stoff's members can search for a reliable source for their assigned task. They help reduce important orders to compare small business tracks and inventions with those who invent them. Both mistakes and customer schemes should be considered before reviewing the scheme.",
+    "model": "Helsinki-NLP/opus-mt-hi-en",
+    "seconds": 0.9030272089985374,
+    "chunks": 1,
+    "note": "Local pretrained inference. Translation quality is not covered by OCR accuracy metrics."
+  },
+  "english_summary": {
+    "text": "public library offers books, newspapers and digital learning resources. staff members help students find reliable sources for assignments. small businesses track sales and inventory every week.",
+    "model": "google-t5/t5-small",
+    "seconds": 0.7802806250001595,
+    "chunks": 1,
+    "note": "Review generated summaries for omissions or unsupported statements."
+  },
+  "verified": "All three pretrained-model features executed locally and returned nonempty output. No translation or summary quality score is claimed."
+}

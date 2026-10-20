@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "tesseract": "tesseract 5.5.2",
+  "packages": {
+    "pillow": "11.3.0",
+    "numpy": "2.2.6",
+    "opencv-python-headless": "4.11.0.86",
+    "pymupdf": "1.26.4"
+  },
+  "benchmark_script_sha256": "ab6f07d41525a5f48aee44fb316e7fbb88bde91282dd8459328a1091dd7389d4",
+  "plan_sha256": "f0d251f661b7bc6b54ea53ffeabdac87b07efd7d45f0ecfcc2701b011a20d20b",
+  "engine_sha256": "5ae8f7c2e4b429902e61b6efab492857e9014b7ebbf82c3f6ff8fab96c01e301",
+  "test_count": 18,
+  "upstream_commit": "aaa43f99d72a4567b86b878ca623248258afa381",
+  "model_revisions": {
+    "Helsinki-NLP/opus-mt-en-hi": "75d7f7c9232b2891c7d65fe4ef635616c72be867",
+    "Helsinki-NLP/opus-mt-hi-en": "a7d96a16729f812578bd55e7366147beda625d86",
+    "google-t5/t5-small": "df1b051c49625cf57a3d0d8d3863ed4d13564fe4"
+  },
+  "nlp_smoke_test": "Passed English-Hindi, Hindi-English and English summary. Execution only, quality not scored."
+}

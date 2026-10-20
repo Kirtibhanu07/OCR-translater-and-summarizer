@@ -1,0 +1,10 @@
+{
+  "selected_config": {
+    "name": "raw_psm6",
+    "preprocessing": "raw",
+    "psm": 6
+  },
+  "criterion": "validation_micro_CER",
+  "validation_images": 30,
+  "test_images": 60
+}

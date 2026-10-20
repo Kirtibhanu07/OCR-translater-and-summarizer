@@ -1,0 +1,11 @@
+{
+  "source_document_clusters": 12,
+  "absolute_CER_reduction_percentage_points": 8.253790005614823,
+  "95pct_cluster_bootstrap_interval_percentage_points": [
+    4.429165087443825,
+    12.043284545869893
+  ],
+  "resamples": 10000,
+  "seed": 42,
+  "note": "Synthetic source-document clusters. Does not establish real-world OCR accuracy."
+}
