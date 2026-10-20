@@ -1,0 +1,9 @@
+.venv/
+.tools/
+.mamba/
+.tesseract-env/
+.model-cache/
+.mplconfig/
+__pycache__/
+.pytest_cache/
+*.log

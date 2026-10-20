@@ -1,0 +1,397 @@
+image,document_id,split,language,condition,reference,font,font_sha256,image_sha256,config,prediction,OCR_seconds,char_errors,reference_chars,word_errors,reference_words,CER,WER,exact_match
+eng_02_clean.png,eng_02,test,eng,clean,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,d44707d90ee78810b2de8c5886ea8caa027bc22ac27fa096ae68ca574a272b1b,raw_psm3,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.11239508300059242,0,188,0,27,0.0,0.0,True
+eng_02_rotated.png,eng_02,test,eng,rotated,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,1e231d7ddc70236cba014eb25dee17055fe642955cfc499f180a3a71f620a201,raw_psm3,"ications on Monday. Each
+
+ce received twenty app
+formation. The final list will be
+
+d for missing in
+ion process is complete.
+
+The regional offi
+application was reviewe
+shared after the verificat",0.11650999999983469,126,188,27,27,0.6702127659574468,1.0,False
+eng_02_low_contrast.png,eng_02,test,eng,low_contrast,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,bee33dbe17e9e3a0982b59b965d5bd67aeae4132c7b9df2af28052e51842a35f,raw_psm3,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.15412033399843494,0,188,0,27,0.0,0.0,True
+eng_02_blurred.png,eng_02,test,eng,blurred,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,6277c62accdee6dcd2c2739a134c6b132699037325719109706981e1a3031be4,raw_psm3,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.11126629199861782,0,188,0,27,0.0,0.0,True
+eng_02_compressed.png,eng_02,test,eng,compressed,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,10620eace3a93a52b39c64693f4437e8a395b0d9b56492dede20be8c243e33b3,raw_psm3,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.09385900000052061,0,188,0,27,0.0,0.0,True
+eng_03_clean.png,eng_03,test,eng,clean,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,9d1b0d764bf9d2613d75ba0ed6e321e32c4278bd2608dd7364522e7f6da43186,raw_psm3,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.10884216599879437,0,203,0,29,0.0,0.0,True
+eng_03_rotated.png,eng_03,test,eng,rotated,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,a34289179cf1576497793309eeac6268d5b0ccc844836f19f133e53c9fac69b7,raw_psm3,"d digital learning
+during opening hours.
+r their
+
+ffers books, newspapers an
+se quiet study rooms
+ents find reliable sources fo
+
+A public library ©
+resources. Visitors can U
+Staff members help stud
+
+assignments.",0.11388316699958523,142,203,30,29,0.6995073891625616,1.0344827586206897,False
+eng_03_low_contrast.png,eng_03,test,eng,low_contrast,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,20169830839272586a73208fb90fb2fb166bfda15b675a1ad8eb4d7864d970a0,raw_psm3,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.14299566699992283,0,203,0,29,0.0,0.0,True
+eng_03_blurred.png,eng_03,test,eng,blurred,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,1891f0442a9eb18ebb0d79006346d61647889e83192965020ed2bacaff1e00ef,raw_psm3,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.1120172500013723,0,203,0,29,0.0,0.0,True
+eng_03_compressed.png,eng_03,test,eng,compressed,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,fff3649ea29141a9f3c16d0ab5a39cdb2125dc90a8906702b625a2e4cb71baa3,raw_psm3,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.08602216700091958,0,203,0,29,0.0,0.0,True
+eng_04_clean.png,eng_04,test,eng,clean,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,ced0ab2b9ac5f4a2c1647d1b90f66eb3348165c86ff2ac8a9bc5f952184d1108,raw_psm3,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.11012104200199246,0,202,0,27,0.0,0.0,True
+eng_04_rotated.png,eng_04,test,eng,rotated,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,dddf33de21ca365cc07d7aa05bb26b628e5c26ff0987060ee8aaa46169f37016,raw_psm3,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.11281737500030431,0,202,0,27,0.0,0.0,True
+eng_04_low_contrast.png,eng_04,test,eng,low_contrast,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,1c8b01c61836dd68e8c3d16fd233cf22f3663a3a9c0111ed6e930f9ed1f71beb,raw_psm3,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.14389254200068535,0,202,0,27,0.0,0.0,True
+eng_04_blurred.png,eng_04,test,eng,blurred,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,b8bc56e381375f395668ac70863f578efad8b313202e5d2b855e572e15d6a577,raw_psm3,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.1145273330002965,0,202,0,27,0.0,0.0,True
+eng_04_compressed.png,eng_04,test,eng,compressed,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,e81441ebd2ab9fd70ec70568539e153e71aa17d2895e4ad7c5aa02e3d66d74c6,raw_psm3,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.09678787500160979,0,202,0,27,0.0,0.0,True
+eng_05_clean.png,eng_05,test,eng,clean,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,a1c992c42ea6a53079a7255e34dc9606c00013bc93f553593cd2baf6c1c58137,raw_psm3,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.11467912499938393,0,216,0,31,0.0,0.0,True
+eng_05_rotated.png,eng_05,test,eng,rotated,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,fd4185c54280a2ab51e1fec226abd195b6ef72328fdb5fed6d4f5d64e13d9061,raw_psm3,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.11972229100138065,0,216,0,31,0.0,0.0,True
+eng_05_low_contrast.png,eng_05,test,eng,low_contrast,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,dbe09dcda172397a035bcb7a025272d33ca7fdd7363bab2cf48bef245876aa6a,raw_psm3,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.15020170799834887,0,216,0,31,0.0,0.0,True
+eng_05_blurred.png,eng_05,test,eng,blurred,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,3f1afb15f2d98fe82d914bd66bd4d65e7566ed4bc554840bd8161c774db3deeb,raw_psm3,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.11762974999874132,0,216,0,31,0.0,0.0,True
+eng_05_compressed.png,eng_05,test,eng,compressed,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,43ef527dd8e4b27507f38b8539a1d90d910f8815e966b90eeea59ba61bd75273,raw_psm3,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.09168124999996508,0,216,0,31,0.0,0.0,True
+hin_01_clean.png,hin_01,test,hin,clean,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,97e7a5603c1132e8ada521ba3c500862c747c51d1af8636c71efb15d0f1e9cf2,raw_psm3,"नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.07952158300031442,0,131,0,25,0.0,0.0,True
+hin_01_rotated.png,hin_01,test,hin,rotated,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,1bdd0d0a575d835ab8174e1f31856eb25002d2fc11495a66faca8584ae1ebec9,raw_psm3,"नगर के में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.0786244999981136,10,131,1,25,0.07633587786259542,0.04,False
+hin_01_low_contrast.png,hin_01,test,hin,low_contrast,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,8b156cae4a91cf237a1add7a4e477b1be811bb971a3583da886c898408df8673,raw_psm3,"नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.11321987500195974,0,131,0,25,0.0,0.0,True
+hin_01_blurred.png,hin_01,test,hin,blurred,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,af82630256e44d0372adff9c74c785ff1dc04f3900a20f6cbc449edcebef7130,raw_psm3,"नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.0803444999983185,0,131,0,25,0.0,0.0,True
+hin_01_compressed.png,hin_01,test,hin,compressed,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,1600bd226db0e761d4850554003132f15e20f777d2f5da88fcae724d3b3b95f1,raw_psm3,"नगर के पुस्तकालय में नर्ड पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.062485250000463566,3,131,1,25,0.022900763358778626,0.04,False
+hin_02_clean.png,hin_02,test,hin,clean,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,e6427b462246f6061b6fe3f4c60171dbae8ca044a5c61173f9ea4d7bd99ceacb,raw_psm3,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.07798041699788882,0,113,0,22,0.0,0.0,True
+hin_02_rotated.png,hin_02,test,hin,rotated,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,2d166eb39574121816bfb53a8707466ce637de0d57aa0f0ca41f4a49e1c0e25d,raw_psm3,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+
+समझाने के लिए सरल चित्र बनाए गए।",0.08016954199774773,0,113,0,22,0.0,0.0,True
+hin_02_low_contrast.png,hin_02,test,hin,low_contrast,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,58669f1a107a1312730493acc3bc9a72feba5bc3316e892278d52226c7e2d2dd,raw_psm3,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.10946262499783188,0,113,0,22,0.0,0.0,True
+hin_02_blurred.png,hin_02,test,hin,blurred,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,80aa1ef1f7c8470e9559fe38e17317ab89b7fd59f6ffd3060f0e72e181165325,raw_psm3,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.08046154200201272,0,113,0,22,0.0,0.0,True
+hin_02_compressed.png,hin_02,test,hin,compressed,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,a2fafb5b4200291433704f55640568b6ab87071cfafddfe94f290bca7707f50b,raw_psm3,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.060514332999446196,0,113,0,22,0.0,0.0,True
+tam_01_clean.png,tam_01,test,tam,clean,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,e061ebe68f83c374ef21237ca27aa7bd87e302a3aea86b5b150cf5c57b4579f1,raw_psm3,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவுகிறார்கள்‌.",0.05878583300000173,8,118,8,13,0.06779661016949153,0.6153846153846154,False
+tam_01_rotated.png,tam_01,test,tam,rotated,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,477a5fa1d0847f66b3c7dca16a6f0aab90f4255aa8bfadd06786e99d8449f004,raw_psm3,"சகர்கள்‌ அமைதியான
+
+உள்ளன. வா
+கிறார்கள்‌.
+
+நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவு",0.06486662499810336,72,118,14,13,0.6101694915254238,1.0769230769230769,False
+tam_01_low_contrast.png,tam_01,test,tam,low_contrast,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,c909b128ab2e8e13b4e0e57a64d3d32e4e93a1d91b5956134bea5e22bb1146f0,raw_psm3,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவுகிறார்கள்‌.",0.0922795420010516,8,118,8,13,0.06779661016949153,0.6153846153846154,False
+tam_01_blurred.png,tam_01,test,tam,blurred,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,686b80e147b361bfe42a803999f5b2c612ae1db37ac468ef85f9f8e3ba652ee6,raw_psm3,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவுகிறார்கள்‌.",0.06266387499999837,8,118,8,13,0.06779661016949153,0.6153846153846154,False
+tam_01_compressed.png,tam_01,test,tam,compressed,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,24e3eca7ddb422e91ff9b769279642d8f084783270f5240a88da10015b4831bd,raw_psm3,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. த்தேட",0.034313874999497784,39,118,9,13,0.3305084745762712,0.6923076923076923,False
+tam_02_clean.png,tam_02,test,tam,clean,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,a0c66eab4d40a7b62b9ed50a67bab98b54708e08662af445015d74b124e114dd,raw_psm3,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படூத்தப்பட்டன.",0.06104770900128642,3,123,3,13,0.024390243902439025,0.23076923076923078,False
+tam_02_rotated.png,tam_02,test,tam,rotated,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,fd8c4dfdeac56170ab387e4ebc3a8213d18ee89b90b9ea2b86a0034c9b276f54,raw_psm3,"சய்தது. ஒவ்வொரு அறிக்கையும்‌
+
+குழு மழை தரவுகளை ஆய்வு டு
+ள விளக்க எளிய வரைபடங்கள்‌
+
+சரிபார்க்கப்பட்டது. முடிவுகை
+பயன்படூத்தப்பட்டன.",0.06475945800048066,81,123,12,13,0.6585365853658537,0.9230769230769231,False
+tam_02_low_contrast.png,tam_02,test,tam,low_contrast,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,0e74b39a08ff4d1320aa0c8157f7c856b33c54534240a16be0a113b02dba92b4,raw_psm3,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படூத்தப்பட்டன.",0.09286487500139629,3,123,3,13,0.024390243902439025,0.23076923076923078,False
+tam_02_blurred.png,tam_02,test,tam,blurred,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,0e8ba7f1413a4c256be8f125cff83a04407920cb026c615f709fedd8b5175822,raw_psm3,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படூத்தப்பட்டன.",0.06360445899917977,3,123,3,13,0.024390243902439025,0.23076923076923078,False
+tam_02_compressed.png,tam_02,test,tam,compressed,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,f2c7f87000d25c22f6603954490734f51c39deea8cdf5ba6235a627116bb0f24,raw_psm3,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படுத்தப்பட்டன.",0.04254262500035111,2,123,2,13,0.016260162601626018,0.15384615384615385,False
+tel_01_clean.png,tel_01,test,tel,clean,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,34e022ad09dba23118eb9cd34c7c3ef64847fb4c6581399302837b487447110a,raw_psm3,"నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.0725650409985974,0,123,0,14,0.0,0.0,True
+tel_01_rotated.png,tel_01,test,tel,rotated,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,6a4726a90d71a53e57af152c3ba3f6e53a024057cd586ede1a25adee7a7298cc,raw_psm3,"ఠకులు ప్రశాంతమైన
+
+గొనడంలో సహాయం
+
+నగర గ్రంథాలయంలో కొత్త పు
+ది సమాచారం కను
+
+గదిలో చదువుకోవచ్చు. సిబ్బం
+చేస్తారు.",0.07283383299727575,82,123,12,14,0.6666666666666666,0.8571428571428571,False
+tel_01_low_contrast.png,tel_01,test,tel,low_contrast,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,0f8197a7a7e293984ad1b9863dbc7687bb8d9e50d198d4199718ddda4666113f,raw_psm3,"నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.10737041700122063,0,123,0,14,0.0,0.0,True
+tel_01_blurred.png,tel_01,test,tel,blurred,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,14ad2a2a5e11af749cf1997b20907cfce15bb9dff772cef25f8ed8d6c5663991,raw_psm3,"నగర గంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో, చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.07987037500060978,3,123,2,14,0.024390243902439025,0.14285714285714285,False
+tel_01_compressed.png,tel_01,test,tel,compressed,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,3f85d94753b11d276d5c478db0deb4364a9b71aa8cf9438b1e4e192b1f7f51f0,raw_psm3,"నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.058151457997155376,0,123,0,14,0.0,0.0,True
+tel_02_clean.png,tel_02,test,tel,clean,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,fa5a4cce25588f69bc2eb718083debc51371c2b373dc94992eef9c80565db80e,raw_psm3,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానీకి' సరళమైన చిత్రాలు ఉపయోగించారు.",0.07177787499676924,2,124,1,13,0.016129032258064516,0.07692307692307693,False
+tel_02_rotated.png,tel_02,test,tel,rotated,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,8ba1b83dfeb55a65e74432915e6a971eff92992cc6d42744358c80bca10ab410,raw_psm3,"చింది. ప్రతి నివేదికను తనిఖీ
+
+బృందం వర్షపాతం సమాచారాన్ని విశ్లేషి
+తమైన చిత్రాలు ఉపయోగించారు.
+
+చేశారు. ఫలితాలను వివరించడానికి సర",0.07723408400124754,81,124,11,13,0.6532258064516129,0.8461538461538461,False
+tel_02_low_contrast.png,tel_02,test,tel,low_contrast,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,6abc15a4235f8981db01e09c9509a6445c861fc905be4e63f775a2244c9d6db3,raw_psm3,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానీకి'స సరళభైన చేత్రాలు ఉపయోగించారు.",0.10616633300014655,5,124,3,13,0.04032258064516129,0.23076923076923078,False
+tel_02_blurred.png,tel_02,test,tel,blurred,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,56dfcf7ba77432f1b1ce1366e65459ecfa4e2adbabf71ba1f6e19a7aa3a379d8,raw_psm3,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానీకి'స సరళమైన చిత్రాలు ఉపయోగించారు.",0.08346674999847892,3,124,1,13,0.024193548387096774,0.07692307692307693,False
+tel_02_compressed.png,tel_02,test,tel,compressed,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,2f1c7cc66e8c4d35b299e8ea5639185b0d0ae483bca87bb775ec70e6111e7ddd,raw_psm3,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.",0.06243329199787695,0,124,0,13,0.0,0.0,True
+kan_01_clean.png,kan_01,test,kan,clean,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,f0988e29a2f8835dd471f07c7170e8b6ef2cde9445f044d7cbfcb9f57b17f328,raw_psm3,"ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬ೦ದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.08186708300127066,2,119,2,15,0.01680672268907563,0.13333333333333333,False
+kan_01_rotated.png,kan_01,test,kan,rotated,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,981a8dc84f51cf62be1336338c74925c513cce49cb1c3b1cf8ee7bfb860ed488,raw_psm3,"ವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+
+ಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇ
+ದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+
+ನಗರ ಗ್ರ೦ಂಥಾ
+ಹುದು. ಸಿಬ್ಬ೦
+
+ಮಾಡುತ್ತಾರೆ.",0.07645604199933587,71,119,14,15,0.5966386554621849,0.9333333333333333,False
+kan_01_low_contrast.png,kan_01,test,kan,low_contrast,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,284ec23199821d5bd99ac025c5fe7b497343712f75db66fa4710f3e280e7b9fa,raw_psm3,"ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬ೦ದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.13320191700040596,2,119,2,15,0.01680672268907563,0.13333333333333333,False
+kan_01_blurred.png,kan_01,test,kan,blurred,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,07d2e85938104af6569fa374521d9bcdf08d28db80a8159a61b4073d209501dc,raw_psm3,"ನಗರ ಗ್ರ೦ಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬ೦ದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.08499866700003622,3,119,3,15,0.025210084033613446,0.2,False
+kan_01_compressed.png,kan_01,test,kan,compressed,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,4a22eeabd4da594ce1f8595bf3a435621070025e318bfd51739a5d078f077450,raw_psm3,"ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.06002595799873234,0,119,0,15,0.0,0.0,True
+kan_02_clean.png,kan_02,test,kan,clean,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,5765f5d885c3944aa655ee5340894d2ac1e6bbb2ac2cd7130d486a094a97340a,raw_psm3,"ತ೦ಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾ೦ಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.0804173329997866,2,121,2,12,0.01652892561983471,0.16666666666666666,False
+kan_02_rotated.png,kan_02,test,kan,rotated,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,f800743b5cf530b1b5d2fe2503dd652ac1f6962f63df2b495a28d404980af7db,raw_psm3,"ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರಶಿ ವರದಿಯನ್ನು
+ಇಛನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶ
+ಬಳಸಲಾಯಿತು.",0.08014887500030454,48,121,5,12,0.39669421487603307,0.4166666666666667,False
+kan_02_low_contrast.png,kan_02,test,kan,low_contrast,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,c601c0ec356e113febb41a7c76b34caba0bfeee6fac1a4bf09e443cc172bab9f,raw_psm3,"ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ಪರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾ೦ಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.11188004199721036,2,121,2,12,0.01652892561983471,0.16666666666666666,False
+kan_02_blurred.png,kan_02,test,kan,blurred,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,ec48211f60859be31547be63b679a28a8528e9aaa2cb9dac6c65afc5830e29f1,raw_psm3,"ತ೦ಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.08336279200011631,1,121,1,12,0.008264462809917356,0.08333333333333333,False
+kan_02_compressed.png,kan_02,test,kan,compressed,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,2c74e5b6530ca1d9a9e4798b5fd75ce9dc91fe0caa6a3bfd8fede196aa50f777,raw_psm3,"ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ. ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.062012458001845516,1,121,1,12,0.008264462809917356,0.08333333333333333,False
+eng_02_clean.png,eng_02,test,eng,clean,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,d44707d90ee78810b2de8c5886ea8caa027bc22ac27fa096ae68ca574a272b1b,raw_psm6,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.10323520800011465,0,188,0,27,0.0,0.0,True
+eng_02_rotated.png,eng_02,test,eng,rotated,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,1e231d7ddc70236cba014eb25dee17055fe642955cfc499f180a3a71f620a201,raw_psm6,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.10499616700326442,0,188,0,27,0.0,0.0,True
+eng_02_low_contrast.png,eng_02,test,eng,low_contrast,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,bee33dbe17e9e3a0982b59b965d5bd67aeae4132c7b9df2af28052e51842a35f,raw_psm6,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.14082499999858555,0,188,0,27,0.0,0.0,True
+eng_02_blurred.png,eng_02,test,eng,blurred,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,6277c62accdee6dcd2c2739a134c6b132699037325719109706981e1a3031be4,raw_psm6,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.10436379100065096,0,188,0,27,0.0,0.0,True
+eng_02_compressed.png,eng_02,test,eng,compressed,The regional office received twenty applications on Monday. Each application was reviewed for missing information. The final list will be shared after the verification process is complete.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,10620eace3a93a52b39c64693f4437e8a395b0d9b56492dede20be8c243e33b3,raw_psm6,"The regional office received twenty applications on Monday. Each
+application was reviewed for missing information. The final list will be
+shared after the verification process is complete.",0.08013233300152933,0,188,0,27,0.0,0.0,True
+eng_03_clean.png,eng_03,test,eng,clean,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,9d1b0d764bf9d2613d75ba0ed6e321e32c4278bd2608dd7364522e7f6da43186,raw_psm6,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.10603870900013135,0,203,0,29,0.0,0.0,True
+eng_03_rotated.png,eng_03,test,eng,rotated,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,a34289179cf1576497793309eeac6268d5b0ccc844836f19f133e53c9fac69b7,raw_psm6,"A public library offers books, newspapers and digital learning
+resources. Visitors can USe quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.11051612499795738,2,203,1,29,0.009852216748768473,0.034482758620689655,False
+eng_03_low_contrast.png,eng_03,test,eng,low_contrast,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,20169830839272586a73208fb90fb2fb166bfda15b675a1ad8eb4d7864d970a0,raw_psm6,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.14040362499872572,0,203,0,29,0.0,0.0,True
+eng_03_blurred.png,eng_03,test,eng,blurred,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,1891f0442a9eb18ebb0d79006346d61647889e83192965020ed2bacaff1e00ef,raw_psm6,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.10804233299859334,0,203,0,29,0.0,0.0,True
+eng_03_compressed.png,eng_03,test,eng,compressed,"A public library offers books, newspapers and digital learning resources. Visitors can use quiet study rooms during opening hours. Staff members help students find reliable sources for their assignments.",Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,fff3649ea29141a9f3c16d0ab5a39cdb2125dc90a8906702b625a2e4cb71baa3,raw_psm6,"A public library offers books, newspapers and digital learning
+resources. Visitors can use quiet study rooms during opening hours.
+Staff members help students find reliable sources for their
+assignments.",0.08482483300031163,0,203,0,29,0.0,0.0,True
+eng_04_clean.png,eng_04,test,eng,clean,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,ced0ab2b9ac5f4a2c1647d1b90f66eb3348165c86ff2ac8a9bc5f952184d1108,raw_psm6,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.10616262499752338,0,202,0,27,0.0,0.0,True
+eng_04_rotated.png,eng_04,test,eng,rotated,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,dddf33de21ca365cc07d7aa05bb26b628e5c26ff0987060ee8aaa46169f37016,raw_psm6,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.11137462499755202,0,202,0,27,0.0,0.0,True
+eng_04_low_contrast.png,eng_04,test,eng,low_contrast,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,1c8b01c61836dd68e8c3d16fd233cf22f3663a3a9c0111ed6e930f9ed1f71beb,raw_psm6,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.14177245799874072,0,202,0,27,0.0,0.0,True
+eng_04_blurred.png,eng_04,test,eng,blurred,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,b8bc56e381375f395668ac70863f578efad8b313202e5d2b855e572e15d6a577,raw_psm6,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.10947033400225337,0,202,0,27,0.0,0.0,True
+eng_04_compressed.png,eng_04,test,eng,compressed,The project dashboard records delivery dates and quality checks. Analysts review unusual values before sending the monthly report. A short explanation accompanies each chart to prevent misunderstanding.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,e81441ebd2ab9fd70ec70568539e153e71aa17d2895e4ad7c5aa02e3d66d74c6,raw_psm6,"The project dashboard records delivery dates and quality checks.
+Analysts review unusual values before sending the monthly report. A
+short explanation accompanies each chart to prevent
+misunderstanding.",0.08549662500081467,0,202,0,27,0.0,0.0,True
+eng_05_clean.png,eng_05,test,eng,clean,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,a1c992c42ea6a53079a7255e34dc9606c00013bc93f553593cd2baf6c1c58137,raw_psm6,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.11055983300320804,0,216,0,31,0.0,0.0,True
+eng_05_rotated.png,eng_05,test,eng,rotated,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,fd4185c54280a2ab51e1fec226abd195b6ef72328fdb5fed6d4f5d64e13d9061,raw_psm6,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.1143222919999971,0,216,0,31,0.0,0.0,True
+eng_05_low_contrast.png,eng_05,test,eng,low_contrast,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,dbe09dcda172397a035bcb7a025272d33ca7fdd7363bab2cf48bef245876aa6a,raw_psm6,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.14642545799870277,0,216,0,31,0.0,0.0,True
+eng_05_blurred.png,eng_05,test,eng,blurred,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,3f1afb15f2d98fe82d914bd66bd4d65e7566ed4bc554840bd8161c774db3deeb,raw_psm6,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.11459133300013491,0,216,0,31,0.0,0.0,True
+eng_05_compressed.png,eng_05,test,eng,compressed,Small businesses track sales and inventory every week. Comparing actual demand with the forecast helps reduce excess orders. Managers should review both forecast errors and customer feedback before changing the plan.,Arial.ttf,525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9,43ef527dd8e4b27507f38b8539a1d90d910f8815e966b90eeea59ba61bd75273,raw_psm6,"Small businesses track sales and inventory every week. Comparing
+actual demand with the forecast helps reduce excess orders.
+Managers should review both forecast errors and customer feedback
+before changing the plan.",0.08918366699799662,0,216,0,31,0.0,0.0,True
+hin_01_clean.png,hin_01,test,hin,clean,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,97e7a5603c1132e8ada521ba3c500862c747c51d1af8636c71efb15d0f1e9cf2,raw_psm6,"नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.0769607910006016,0,131,0,25,0.0,0.0,True
+hin_01_rotated.png,hin_01,test,hin,rotated,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,1bdd0d0a575d835ab8174e1f31856eb25002d2fc11495a66faca8584ae1ebec9,raw_psm6,"नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.07664925000062794,0,131,0,25,0.0,0.0,True
+hin_01_low_contrast.png,hin_01,test,hin,low_contrast,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,8b156cae4a91cf237a1add7a4e477b1be811bb971a3583da886c898408df8673,raw_psm6,"नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.10998816599749262,0,131,0,25,0.0,0.0,True
+hin_01_blurred.png,hin_01,test,hin,blurred,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,af82630256e44d0372adff9c74c785ff1dc04f3900a20f6cbc449edcebef7130,raw_psm6,"नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.07848445800118498,0,131,0,25,0.0,0.0,True
+hin_01_compressed.png,hin_01,test,hin,compressed,नगर के पुस्तकालय में नई पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं। कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,1600bd226db0e761d4850554003132f15e20f777d2f5da88fcae724d3b3b95f1,raw_psm6,"नगर के पुस्तकालय में नर्ड पुस्तकें आई हैं। पाठक सुबह से शाम तक अध्ययन कर सकते हैं।
+कर्मचारी जानकारी प्राप्त करने में सहायता करते हैं।",0.06155866599874571,3,131,1,25,0.022900763358778626,0.04,False
+hin_02_clean.png,hin_02,test,hin,clean,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,e6427b462246f6061b6fe3f4c60171dbae8ca044a5c61173f9ea4d7bd99ceacb,raw_psm6,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.07717725000111386,0,113,0,22,0.0,0.0,True
+hin_02_rotated.png,hin_02,test,hin,rotated,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,2d166eb39574121816bfb53a8707466ce637de0d57aa0f0ca41f4a49e1c0e25d,raw_psm6,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.07738579199940432,0,113,0,22,0.0,0.0,True
+hin_02_low_contrast.png,hin_02,test,hin,low_contrast,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,58669f1a107a1312730493acc3bc9a72feba5bc3316e892278d52226c7e2d2dd,raw_psm6,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.10573799999838229,0,113,0,22,0.0,0.0,True
+hin_02_blurred.png,hin_02,test,hin,blurred,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,80aa1ef1f7c8470e9559fe38e17317ab89b7fd59f6ffd3060f0e72e181165325,raw_psm6,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.07804525000028661,0,113,0,22,0.0,0.0,True
+hin_02_compressed.png,hin_02,test,hin,compressed,टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम समझाने के लिए सरल चित्र बनाए गए।,Devanagari Sangam MN.ttc,56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9,a2fafb5b4200291433704f55640568b6ab87071cfafddfe94f290bca7707f50b,raw_psm6,"टीम ने वर्षा के आंकड़ों का विश्लेषण किया। प्रत्येक रिपोर्ट की जांच की गई। परिणाम
+समझाने के लिए सरल चित्र बनाए गए।",0.05954354200002854,0,113,0,22,0.0,0.0,True
+tam_01_clean.png,tam_01,test,tam,clean,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,e061ebe68f83c374ef21237ca27aa7bd87e302a3aea86b5b150cf5c57b4579f1,raw_psm6,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவுகிறார்கள்‌.",0.056537792002927745,8,118,8,13,0.06779661016949153,0.6153846153846154,False
+tam_01_rotated.png,tam_01,test,tam,rotated,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,477a5fa1d0847f66b3c7dca16a6f0aab90f4255aa8bfadd06786e99d8449f004,raw_psm6,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ $ேதட உதவுகிறார்கள்‌.",0.06142079200071748,10,118,9,13,0.0847457627118644,0.6923076923076923,False
+tam_01_low_contrast.png,tam_01,test,tam,low_contrast,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,c909b128ab2e8e13b4e0e57a64d3d32e4e93a1d91b5956134bea5e22bb1146f0,raw_psm6,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவுகிறார்கள்‌.",0.08975254200049676,8,118,8,13,0.06779661016949153,0.6153846153846154,False
+tam_01_blurred.png,tam_01,test,tam,blurred,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,686b80e147b361bfe42a803999f5b2c612ae1db37ac468ef85f9f8e3ba652ee6,raw_psm6,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவுகிறார்கள்‌.",0.06011975000001257,8,118,8,13,0.06779661016949153,0.6153846153846154,False
+tam_01_compressed.png,tam_01,test,tam,compressed,நகர நூலகத்தில் புதிய புத்தகங்கள் உள்ளன. வாசகர்கள் அமைதியான அறையில் படிக்கலாம். ஊழியர்கள் தகவல்களைத் தேட உதவுகிறார்கள்.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,24e3eca7ddb422e91ff9b769279642d8f084783270f5240a88da10015b4831bd,raw_psm6,"நகர நூலகத்தில்‌ புதிய புத்தகங்கள்‌ உள்ளன. வாசகர்கள்‌ அமைதியான
+அறையில்‌ படிக்கலாம்‌. ஊழியர்கள்‌ தகவல்களைத்‌ தேட உதவுகிறார்கள்‌.",0.0453202919998148,8,118,8,13,0.06779661016949153,0.6153846153846154,False
+tam_02_clean.png,tam_02,test,tam,clean,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,a0c66eab4d40a7b62b9ed50a67bab98b54708e08662af445015d74b124e114dd,raw_psm6,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படூத்தப்பட்டன.",0.05865491700023995,3,123,3,13,0.024390243902439025,0.23076923076923078,False
+tam_02_rotated.png,tam_02,test,tam,rotated,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,fd8c4dfdeac56170ab387e4ebc3a8213d18ee89b90b9ea2b86a0034c9b276f54,raw_psm6,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படூத்தப்பட்டன.",0.0620568340018508,3,123,3,13,0.024390243902439025,0.23076923076923078,False
+tam_02_low_contrast.png,tam_02,test,tam,low_contrast,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,0e74b39a08ff4d1320aa0c8157f7c856b33c54534240a16be0a113b02dba92b4,raw_psm6,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படூத்தப்பட்டன.",0.0911592499978724,3,123,3,13,0.024390243902439025,0.23076923076923078,False
+tam_02_blurred.png,tam_02,test,tam,blurred,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,0e8ba7f1413a4c256be8f125cff83a04407920cb026c615f709fedd8b5175822,raw_psm6,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படூத்தப்பட்டன.",0.061119665999285644,3,123,3,13,0.024390243902439025,0.23076923076923078,False
+tam_02_compressed.png,tam_02,test,tam,compressed,குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும் சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள் பயன்படுத்தப்பட்டன.,Tamil Sangam MN.ttc,3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79,f2c7f87000d25c22f6603954490734f51c39deea8cdf5ba6235a627116bb0f24,raw_psm6,"குழு மழை தரவுகளை ஆய்வு செய்தது. ஒவ்வொரு அறிக்கையும்‌
+சரிபார்க்கப்பட்டது. முடிவுகளை விளக்க எளிய வரைபடங்கள்‌
+பயன்படுத்தப்பட்டன.",0.04109512500144774,2,123,2,13,0.016260162601626018,0.15384615384615385,False
+tel_01_clean.png,tel_01,test,tel,clean,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,34e022ad09dba23118eb9cd34c7c3ef64847fb4c6581399302837b487447110a,raw_psm6,"నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.07112083399988478,0,123,0,14,0.0,0.0,True
+tel_01_rotated.png,tel_01,test,tel,rotated,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,6a4726a90d71a53e57af152c3ba3f6e53a024057cd586ede1a25adee7a7298cc,raw_psm6,"నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.07381316700048046,0,123,0,14,0.0,0.0,True
+tel_01_low_contrast.png,tel_01,test,tel,low_contrast,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,0f8197a7a7e293984ad1b9863dbc7687bb8d9e50d198d4199718ddda4666113f,raw_psm6,"నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.10645779100013897,0,123,0,14,0.0,0.0,True
+tel_01_blurred.png,tel_01,test,tel,blurred,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,14ad2a2a5e11af749cf1997b20907cfce15bb9dff772cef25f8ed8d6c5663991,raw_psm6,"నగర గంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో, చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.07704279199970188,3,123,2,14,0.024390243902439025,0.14285714285714285,False
+tel_01_compressed.png,tel_01,test,tel,compressed,నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం చేస్తారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,3f85d94753b11d276d5c478db0deb4364a9b71aa8cf9438b1e4e192b1f7f51f0,raw_psm6,"నగర గ్రంథాలయంలో కొత్త పుస్తకాలు ఉన్నాయి. పాఠకులు ప్రశాంతమైన
+గదిలో చదువుకోవచ్చు. సిబ్బంది సమాచారం కనుగొనడంలో సహాయం
+చేస్తారు.",0.05569412499971804,0,123,0,14,0.0,0.0,True
+tel_02_clean.png,tel_02,test,tel,clean,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,fa5a4cce25588f69bc2eb718083debc51371c2b373dc94992eef9c80565db80e,raw_psm6,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.",0.06914841700199759,0,124,0,13,0.0,0.0,True
+tel_02_rotated.png,tel_02,test,tel,rotated,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,8ba1b83dfeb55a65e74432915e6a971eff92992cc6d42744358c80bca10ab410,raw_psm6,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్లతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.",0.07177500000034343,1,124,1,13,0.008064516129032258,0.07692307692307693,False
+tel_02_low_contrast.png,tel_02,test,tel,low_contrast,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,6abc15a4235f8981db01e09c9509a6445c861fc905be4e63f775a2244c9d6db3,raw_psm6,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.",0.10457391700037988,0,124,0,13,0.0,0.0,True
+tel_02_blurred.png,tel_02,test,tel,blurred,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,56dfcf7ba77432f1b1ce1366e65459ecfa4e2adbabf71ba1f6e19a7aa3a379d8,raw_psm6,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.",0.0711373750018538,0,124,0,13,0.0,0.0,True
+tel_02_compressed.png,tel_02,test,tel,compressed,బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.,Telugu Sangam MN.ttc,94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090,2f1c7cc66e8c4d35b299e8ea5639185b0d0ae483bca87bb775ec70e6111e7ddd,raw_psm6,"బృందం వర్షపాతం సమాచారాన్ని విశ్లేషించింది. ప్రతి నివేదికను తనిఖీ
+చేశారు. ఫలితాలను వివరించడానికి సరళమైన చిత్రాలు ఉపయోగించారు.",0.056129582997527905,0,124,0,13,0.0,0.0,True
+kan_01_clean.png,kan_01,test,kan,clean,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,f0988e29a2f8835dd471f07c7170e8b6ef2cde9445f044d7cbfcb9f57b17f328,raw_psm6,"ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬ೦ದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.0769936670003517,2,119,2,15,0.01680672268907563,0.13333333333333333,False
+kan_01_rotated.png,kan_01,test,kan,rotated,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,981a8dc84f51cf62be1336338c74925c513cce49cb1c3b1cf8ee7bfb860ed488,raw_psm6,"ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.07870954200188862,1,119,1,15,0.008403361344537815,0.06666666666666667,False
+kan_01_low_contrast.png,kan_01,test,kan,low_contrast,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,284ec23199821d5bd99ac025c5fe7b497343712f75db66fa4710f3e280e7b9fa,raw_psm6,"ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬ೦ದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.11024645900033647,2,119,2,15,0.01680672268907563,0.13333333333333333,False
+kan_01_blurred.png,kan_01,test,kan,blurred,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,07d2e85938104af6569fa374521d9bcdf08d28db80a8159a61b4073d209501dc,raw_psm6,"ನಗರ ಗ್ರ೦ಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾ೦ತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬ೦ದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.07888945800004876,3,119,3,15,0.025210084033613446,0.2,False
+kan_01_compressed.png,kan_01,test,kan,compressed,ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತಾರೆ.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,4a22eeabd4da594ce1f8595bf3a435621070025e318bfd51739a5d078f077450,raw_psm6,"ನಗರ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಹೊಸ ಪುಸ್ತಕಗಳು ಇವೆ. ಓದುಗರು ಶಾಂತವಾದ
+ಕೋಣೆಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ ಹುಡುಕಲು ಸಹಾಯ
+ಮಾಡುತ್ತಾರೆ.",0.056806333999702474,0,119,0,15,0.0,0.0,True
+kan_02_clean.png,kan_02,test,kan,clean,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,5765f5d885c3944aa655ee5340894d2ac1e6bbb2ac2cd7130d486a094a97340a,raw_psm6,"ತ೦ಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾ೦ಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.07566183300150442,2,121,2,12,0.01652892561983471,0.16666666666666666,False
+kan_02_rotated.png,kan_02,test,kan,rotated,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,f800743b5cf530b1b5d2fe2503dd652ac1f6962f63df2b495a28d404980af7db,raw_psm6,"ತ೦ಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾ೦ಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.0771627920003084,2,121,2,12,0.01652892561983471,0.16666666666666666,False
+kan_02_low_contrast.png,kan_02,test,kan,low_contrast,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,c601c0ec356e113febb41a7c76b34caba0bfeee6fac1a4bf09e443cc172bab9f,raw_psm6,"ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ಪರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾ೦ಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.10837200000241864,2,121,2,12,0.01652892561983471,0.16666666666666666,False
+kan_02_blurred.png,kan_02,test,kan,blurred,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,ec48211f60859be31547be63b679a28a8528e9aaa2cb9dac6c65afc5830e29f1,raw_psm6,"ತ೦ಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.07954075000088778,1,121,1,12,0.008264462809917356,0.08333333333333333,False
+kan_02_compressed.png,kan_02,test,kan,compressed,ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ ಚಿತ್ರಗಳನ್ನು ಬಳಸಲಾಯಿತು.,Kannada Sangam MN.ttc,f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b,2c74e5b6530ca1d9a9e4798b5fd75ce9dc91fe0caa6a3bfd8fede196aa50f777,raw_psm6,"ತಂಡವು ಮಳೆಯ ಮಾಹಿತಿಯನ್ನು ವಿಶ್ಲೇಷಿಸಿತು. ಪ್ರತಿ ವರದಿಯನ್ನು
+ಪರಿಶೀಲಿಸಲಾಯಿತು. ಫಲಿತಾಂಶಗಳನ್ನು ವಿವರಿಸಲು ಸರಳವಾದ. ಚಿತ್ರಗಳನ್ನು
+ಬಳಸಲಾಯಿತು.",0.059956000000966014,1,121,1,12,0.008264462809917356,0.08333333333333333,False

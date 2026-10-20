@@ -1,8 +1,3 @@
-mkdir -p ~/.streamlit/
-echo "\
-[server]\n\
-headless = true\n\
-port = $PORT\n\
-enableCORS = false\n\
-\n\
-" > ~/.streamlit/config.toml
+#!/bin/sh
+set -eu
+exec streamlit run app.py --server.headless=true --server.address=0.0.0.0 --server.port="${PORT:-8501}"

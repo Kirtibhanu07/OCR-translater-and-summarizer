@@ -1,0 +1,14 @@
+{
+  "kind": "Synthetic printed-document OCR benchmark, not a real-world accuracy study",
+  "languages": ["eng","hin","tam","tel","kan"],
+  "conditions": ["clean","rotated","low_contrast","blurred","compressed"],
+  "split_unit": "source document, before generating five degraded variants",
+  "selection": "Select one global preprocessing/page-segmentation configuration by validation micro character error rate. Tie-break by name, never by test score.",
+  "reference": "Unprocessed image, Tesseract LSTM OEM 1, automatic page segmentation PSM 3",
+  "candidates": ["raw_psm3","raw_psm6","enhanced_psm3","enhanced_psm6","adaptive_psm6"],
+  "normalization": "Unicode NFC and collapsed whitespace only. Case and punctuation preserved. CER counts Unicode code points including spaces. WER uses whitespace-delimited tokens.",
+  "metrics": ["micro_CER","micro_WER","macro_CER","exact_document_match","median_OCR_seconds","p95_OCR_seconds"],
+  "uncertainty": "Paired bootstrap of test source-document clusters, keeping all degraded variants together, 10000 resamples, seed 42. Report absolute CER reduction in percentage points, with 95% percentile interval.",
+  "seed": 42,
+  "limits": "Synthetic printouts with known layout and selected language. No handwriting, real scan distribution, automatic language detection or model fine-tuning. OCR metrics do not measure translation or summary quality. Benchmark image rendering and PDF decoding are excluded from OCR timing. No causal production impact claim."
+}

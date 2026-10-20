@@ -1,0 +1,1 @@
+Implemented multilingual Tesseract OCR with image preprocessing and PDF support. Benchmarked five configurations using source-separated validation and 60 synthetic test images across five languages, measuring 0.91% CER, 6.31% WER and 0.08-second median OCR latency. These metrics apply only to the synthetic benchmark.
